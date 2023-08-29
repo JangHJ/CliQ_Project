@@ -1,6 +1,7 @@
 # ✨ CliQ - 여성을 위한 성교육 퀴즈 어플리케이션
 
 ### 1.  개발 목표
+
 + 성에 관해 폐쇄적인 사회분위기 속 잘못된 성지식을 습득하거나 부끄러워하는 1020에게<br>
   쉽게 다가갈 수 있는 퀴즈 형식의 성교육 어플을 통해 올바른 성 지식과 행복을 알려주자.
 + Swift Front-end 개발 실력 향상
@@ -25,6 +26,7 @@
 <br>
 
 ### 5.  주요 기능
+
 + 인트로 - slide 스크롤뷰
 + 플레이화면 - 사용자 퀴즈레벨에 따라 문제 출력
 + 플레이화면 - 레벨에 따라 정답을 포함한 랜덤 글자 배치
@@ -35,6 +37,8 @@
 <br>
 
 ### 6.  스크린샷
+
+![image](https://github.com/JangHJ/CliQ_Project/assets/13388283/ebaebe6e-3a7a-4396-8fb6-85b422f27e8d)
 
 <br>
 
@@ -299,6 +303,7 @@
         super.viewDidLoad()
     }
 ```
+<br>
 
   1. 정답을 맞출 경우 level count+
   2. 이에 따른 userDefaults 업데이트
@@ -345,4 +350,8 @@ if quizCount == 16 {
 
 ### 8.  App store 등록 기간
 + 2020.6.5 ~ 2021.6.5
+
+![image](https://github.com/JangHJ/CliQ_Project/assets/13388283/c193b8f3-af08-4859-972f-ccfadca50c7e)
+![image](https://github.com/JangHJ/CliQ_Project/assets/13388283/f750faae-732b-4f80-846d-3b712b159ffa)
+
 
