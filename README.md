@@ -10,22 +10,17 @@
 
 <br>
 
-### 2.  개발 언어
-+ Swift 
+### 2. IDE/Language
++ Xcode - Swift 
 
 <br>
 
-### 3.  개발 툴
-+ Xcode 
-
-<br>
-
-### 4.  최적화 디바이스
+### 3.  최적화 디바이스
 + iPhone XR/XS Max/11/11 Pro Max
 
 <br>
 
-### 5.  주요 기능
+### 4.  주요 기능
 
 + 인트로 - slide 스크롤뷰
 + 플레이화면 - 사용자 퀴즈레벨에 따라 문제 출력
@@ -36,13 +31,13 @@
 
 <br>
 
-### 6.  스크린샷
+### 5.  스크린샷
 
 ![image](https://github.com/JangHJ/CliQ_Project/assets/13388283/ebaebe6e-3a7a-4396-8fb6-85b422f27e8d)
 
 <br>
 
-### 7.  개발 사항 (개인)
+### 6.  개발 사항 (개인)
 
   1. UserDefaults에 진행된 level 있는지 확인
   2. level 확인 후 해당 레벨 문제 출제
@@ -348,7 +343,7 @@ if quizCount == 16 {
 ```
 <br>
 
-### 8.  App store 등록 기간
+### 7.  App store 등록 기간
 + 2020.6.5 ~ 2021.6.5
 
 ![image](https://github.com/JangHJ/CliQ_Project/assets/13388283/c193b8f3-af08-4859-972f-ccfadca50c7e)
